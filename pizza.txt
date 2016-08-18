@@ -6,3 +6,6 @@ Ingredients
 * 1 can pizza sauce
 * lots of mozarella cheese
 * some ham!
+
+Directions:
+1. Spread pizza sauce evenly over the crust.
